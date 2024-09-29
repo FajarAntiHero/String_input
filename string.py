@@ -154,7 +154,7 @@ elif dataJumlah == "5": #Fungsi ini akan di eksekusi Jika jumlah data yang di in
         print("Nama Kelas : " +kelas4)
         print("Nama Jurusan : " +jurusan4)
         print(line)
-    elif jumlahStruk == "4":
+    elif jumlahStruk == "5":
         print(line)
         print("Hasil Input")
         print("Nama Siswa : " +name)
